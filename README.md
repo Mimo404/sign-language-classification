@@ -114,6 +114,12 @@ The notebook provides a side-by-side comparison of CNN, MLP, and MobileNetV2, al
 * Classification metrics
 * Prediction quality
 
+| Model | Accuracy |
+|---|---|
+| CNN | 100% |
+| MLP | 62.27% |
+| MobileNetV2 | 98.90% |
+
 -----------------------------------------------------------------------------------------------------------------------------------
 
 ## Learning Objectives
